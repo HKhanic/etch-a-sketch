@@ -19,3 +19,9 @@ body {
     box-sizing: border-box;
     border: 1px solid #ccc;
 }
+
+#resize {
+    font-size: 1.5em;
+    margin: 0vh auto -10vh auto;
+    display: block;
+}
