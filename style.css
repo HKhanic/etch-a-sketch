@@ -14,7 +14,6 @@ body {
 }
 
 #container div {
-    flex: 0 1 calc(100% / 16);
     aspect-ratio: 1 / 1;
     box-sizing: border-box;
     border: 1px solid #ccc;
