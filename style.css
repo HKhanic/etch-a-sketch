@@ -10,7 +10,7 @@ body {
     margin: 10vh auto 0vh auto;
     width: min(90vw, 90vh);   
     height: min(90vw, 90vh);
-    background: whitesmoke;
+    background: black;
 }
 
 #container div {
